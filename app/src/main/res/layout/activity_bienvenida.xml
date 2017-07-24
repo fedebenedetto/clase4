@@ -12,5 +12,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/tv_mensaje"
         android:text="@string/msj"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_enviar"
+        android:text="@string/enviar"/>
 
 </LinearLayout>

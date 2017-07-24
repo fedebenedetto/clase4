@@ -5,4 +5,5 @@
     <string name="Pass">Pass</string>
     <string name="ingresar">Ingresar</string>
     <string name="msj">Bienvenido %1$s !!! Podes empezar a enviar correos con tu mail: %2$s</string>
+    <string name="enviar">Enviar</string>
 </resources>
